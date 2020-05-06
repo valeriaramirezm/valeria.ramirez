@@ -1,0 +1,106 @@
+/* Base
+
+font-family: 'Noto Sans JP', sans-serif;
+font-family: 'Quicksand', sans-serif;
+
+*/
+
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+JP|Quicksand&display=swap');
+
+
+body {
+  font-family: 'Quicksand', sans-serif;
+}
+
+.bg{
+background-color: #015a86;
+}
+
+
+logo-nombre{
+  font-family: 'Noto Sans JP', sans-serif;
+  font-size: 12px;
+  color: white;
+}
+
+.img-banner{
+  width: 20%;
+}
+
+header {
+  background-image: url('../img/background.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: left;
+  padding-bottom: 10rem;
+}
+
+.h1-banner{
+  font-family: 'Quicksand', sans-serif;
+  font-size: 40px;
+}
+
+.h1-texto{
+  font-family: 'Quicksand', sans-serif;
+  font-size: 30px;
+}
+
+.h2-titulo{
+  font-family: 'Quicksand', sans-serif;
+  font-size: 40px;
+  text-align: center;
+}
+
+
+.h2-subtitulo{
+  font-family: 'Quicksand', sans-serif;
+  font-size: 25px;
+  text-align: center;
+
+}
+
+
+.h5-texto{
+  font-family: 'Quicksand', sans-serif;
+  font-size: 16px;
+  text-align: justify; 
+}
+
+.h5-titulo{
+  font-family: 'Noto Sans JP', sans-serif;
+  font-size: 20px;
+  text-align: left;
+}
+
+
+.h5-p{
+  font-family: 'Noto Sans JP', sans-serif;
+  font-size: 15px;
+  text-align: left;
+  color: #6e6e6e;
+}
+
+
+
+.hr-titulo{
+  height: 1px;
+  background-color: #015a86;
+}
+
+
+.carousel-indicators {
+  top: 90px;
+}
+
+.carousel-indicators li {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  color: #015a86;
+}
+
+
+.rrss{
+  color: #ffffff;
+  padding: 10px;
+}
